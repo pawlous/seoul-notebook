@@ -1,0 +1,263 @@
+[
+  {
+    "region": "漢南洞",
+    "name": "水芹菜烤五花 (漢南) 무쇠김치삼겹 한남점",
+    "category": "",
+    "day": "2026-10-13",
+    "id": "stop-1",
+    "map": "https://naver.me/GHvqm2J0",
+    "notes": ""
+  },
+  {
+    "region": "東大門",
+    "name": "乙支餃子 을지만두",
+    "category": "",
+    "day": "2026-10-13",
+    "id": "stop-3",
+    "map": "https://naver.me/IgJC0bG9",
+    "notes": ""
+  },
+  {
+    "region": "東大門",
+    "name": "東大門諾富特",
+    "category": "",
+    "day": "2026-10-13",
+    "id": "stop-4",
+    "map": "https://naver.me/GUwSKeF0",
+    "notes": "노보텔 앰배서더 서울 동대문"
+  },
+  {
+    "region": "漢南洞",
+    "name": "꼼나나비앙 한남점 漢南洞理髮",
+    "category": "",
+    "day": "2026-10-13",
+    "id": "stop-5",
+    "map": "https://naver.me/IFgdVnDh",
+    "notes": ""
+  },
+  {
+    "region": "",
+    "name": "AREX 機場快線",
+    "category": "Commute",
+    "day": "2026-10-13",
+    "id": "stop-6",
+    "map": "",
+    "notes": "預估抵達首爾站 13:30\n首爾站 > 東大門歷史文化公園 20 分鐘"
+  },
+  {
+    "region": "",
+    "name": "TPE - ICN BR170",
+    "category": "",
+    "day": "2026-10-13",
+    "id": "stop-7",
+    "map": "",
+    "notes": "Arrival: 11:00\nTPE: Terminal 2\nICN: Terminal 1"
+  },
+  {
+    "region": "",
+    "name": "ccnmade 飾品 (江南)",
+    "category": "",
+    "day": "2026-10-14",
+    "id": "stop-8",
+    "map": "https://naver.me/xzxRgQJY",
+    "notes": ""
+  },
+  {
+    "region": "聖水洞",
+    "name": "聖水外婆家 외가집",
+    "category": "",
+    "day": "2026-10-14",
+    "id": "stop-9",
+    "map": "https://naver.me/xf5A4NLd",
+    "notes": ""
+  },
+  {
+    "region": "聖水洞",
+    "name": "Ferien Seoul Cheesecake",
+    "category": "",
+    "day": "2026-10-14",
+    "id": "stop-10",
+    "map": "https://naver.me/xuFCbZsb",
+    "notes": "甜點"
+  },
+  {
+    "region": "",
+    "name": "大公園雪濃湯 강설옥 설렁탕 군자",
+    "category": "",
+    "day": "2026-10-14",
+    "id": "stop-11",
+    "map": "https://naver.me/xzljSGIS",
+    "notes": "豆芽湯備案"
+  },
+  {
+    "region": "",
+    "name": "Kongsim 兒童大公園店 콩심 어린이대공원점",
+    "category": "",
+    "day": "2026-10-14",
+    "id": "stop-12",
+    "map": "https://naver.me/xyTGXHer",
+    "notes": ""
+  },
+  {
+    "region": "",
+    "name": "首爾想像國度 서울상상나라",
+    "category": "",
+    "day": "2026-10-14",
+    "id": "stop-13",
+    "map": "https://naver.me/5JpUyDT1",
+    "notes": ""
+  },
+  {
+    "region": "",
+    "name": "景福宮 光化門 광화문",
+    "category": "",
+    "day": "2026-10-15",
+    "id": "stop-14",
+    "map": "https://naver.me/FN7XiDnA",
+    "notes": "10am 守衛交接"
+  },
+  {
+    "region": "",
+    "name": "首爾工藝博物館 서울공예박물관",
+    "category": "",
+    "day": "2026-10-15",
+    "id": "stop-15",
+    "map": "https://naver.me/5oE5FPaE",
+    "notes": ""
+  },
+  {
+    "region": "",
+    "name": "國立民俗博物館 국립민속박물관",
+    "category": "",
+    "day": "2026-10-15",
+    "id": "stop-16",
+    "map": "https://naver.me/5XJIkKAd",
+    "notes": "景福宮內"
+  },
+  {
+    "region": "鐘路區",
+    "name": "Jaiso 자이소 안국",
+    "category": "Cafe",
+    "day": "2026-10-15",
+    "id": "stop-17",
+    "map": "https://naver.me/Gq84iBtY",
+    "notes": "甜點 草莓大福"
+  },
+  {
+    "region": "鐘路區",
+    "name": "ARTIST BAKERY",
+    "category": "Cafe",
+    "day": "2026-10-15",
+    "id": "stop-18",
+    "map": "https://naver.me/5UEc0uzr",
+    "notes": "早餐"
+  },
+  {
+    "region": "鐘路區",
+    "name": "BoneHouse 뼈탄집",
+    "category": "Restaurant",
+    "day": "2026-10-15",
+    "id": "stop-19",
+    "map": "https://naver.me/GpJeeSLA",
+    "notes": "烤肉・晚餐"
+  },
+  {
+    "region": "",
+    "name": "弘大韓牛 우화 홍대본점",
+    "category": "",
+    "day": "2026-10-16",
+    "id": "stop-20",
+    "map": "https://naver.me/5tfgOJCD",
+    "notes": ""
+  },
+  {
+    "region": "弘大",
+    "name": "京義線書街 경의선책거리",
+    "category": "",
+    "day": "2026-10-16",
+    "id": "stop-21",
+    "map": "https://naver.me/5VmtKxo5",
+    "notes": ""
+  },
+  {
+    "region": "弘大",
+    "name": "AK PLAZA 홍대",
+    "category": "",
+    "day": "2026-10-16",
+    "id": "stop-22",
+    "map": "https://naver.me/56R6OZp0",
+    "notes": ""
+  },
+  {
+    "region": "弘大",
+    "name": "경의선숲길 京義線林道",
+    "category": "",
+    "day": "2026-10-16",
+    "id": "stop-23",
+    "map": "https://naver.me/5JpyTdPU",
+    "notes": ""
+  },
+  {
+    "region": "弘大",
+    "name": "푸링 手工布丁",
+    "category": "Cafe",
+    "day": "2026-10-16",
+    "id": "stop-24",
+    "map": "https://naver.me/xoH8qcaM",
+    "notes": "甜點 - 前往弘大的路上"
+  },
+  {
+    "region": "弘大",
+    "name": "AEIOU 아에이오우",
+    "category": "Shopping",
+    "day": "2026-10-16",
+    "id": "stop-25",
+    "map": "https://naver.me/5oEM2qes",
+    "notes": "化妝包"
+  },
+  {
+    "region": "鐘路區",
+    "name": "山清 산청숯불가든 을지로 2호점",
+    "category": "Restaurant",
+    "day": "2026-10-16",
+    "id": "stop-26",
+    "map": "https://naver.me/G7VVR5b9",
+    "notes": "烤肉 山清 晚餐\n或者去鐘路三街吃帳棚"
+  },
+  {
+    "region": "",
+    "name": "Egg Drop (飯店附近)",
+    "category": "",
+    "day": "2026-10-17",
+    "id": "stop-27",
+    "map": "https://naver.me/FN7pAxD0",
+    "notes": ""
+  },
+  {
+    "region": "",
+    "name": "ICN - TPE BR169",
+    "category": "",
+    "day": "2026-10-17",
+    "id": "stop-28",
+    "map": "",
+    "notes": "10 點要到仁川機場\nArrival: 13:35\nICN: Terminal 1\nTPE: Terminal 2"
+  },
+  {
+    "id": "stop-29",
+    "name": "里門雪濃湯 이문설농탕",
+    "day": "2026-10-15",
+    "region": "鐘路區",
+    "category": "Restaurant",
+    "notes": "午餐候選：無法訂位，當天與「開城餃子 宮」擇一。\n牛骨湯配飯。",
+    "map": "https://map.naver.com/p/search/%EC%9D%B4%EB%AC%B8%EC%84%A4%EB%86%8D%ED%83%95"
+  },
+  {
+    "id": "stop-30",
+    "name": "開城餃子 宮 개성만두 궁",
+    "day": "2026-10-15",
+    "region": "鐘路區",
+    "category": "Restaurant",
+    "notes": "午餐候選：無法訂位，當天與「里門雪濃湯」擇一。\n開城式餃子、餃子湯。",
+    "map": "https://map.naver.com/p/search/%EA%B0%9C%EC%84%B1%EB%A7%8C%EB%91%90%20%EA%B6%81%20%EC%9D%B8%EC%82%AC%EB%8F%99"
+  }
+]
