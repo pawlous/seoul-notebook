@@ -1,0 +1,362 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-24T15:06:40+00:00",
+  "title": "Design System: 首爾散步手帳 (Seoul Notebook)",
+  "extensions": {
+    "colorMeta": {
+      "night": {
+        "role": "neutral",
+        "displayName": "Blue-Hour Night",
+        "canonical": "oklch(24.3% 0.084 265.2)",
+        "tonalRamp": [
+          "oklch(15% 0.084 265.2)",
+          "oklch(25% 0.084 265.2)",
+          "oklch(35% 0.084 265.2)",
+          "oklch(45% 0.084 265.2)",
+          "oklch(55% 0.084 265.2)",
+          "oklch(70% 0.084 265.2)",
+          "oklch(85% 0.084 265.2)",
+          "oklch(95% 0.084 265.2)"
+        ]
+      },
+      "night-line": {
+        "role": "neutral",
+        "displayName": "Night Rule",
+        "canonical": "oklch(37.4% 0.094 267.6)",
+        "tonalRamp": [
+          "oklch(15% 0.094 267.6)",
+          "oklch(25% 0.094 267.6)",
+          "oklch(35% 0.094 267.6)",
+          "oklch(45% 0.094 267.6)",
+          "oklch(55% 0.094 267.6)",
+          "oklch(70% 0.094 267.6)",
+          "oklch(85% 0.094 267.6)",
+          "oklch(95% 0.094 267.6)"
+        ]
+      },
+      "night-soft": {
+        "role": "neutral",
+        "displayName": "Night Mist",
+        "canonical": "oklch(79.4% 0.055 269.9)",
+        "tonalRamp": [
+          "oklch(15% 0.055 269.9)",
+          "oklch(25% 0.055 269.9)",
+          "oklch(35% 0.055 269.9)",
+          "oklch(45% 0.055 269.9)",
+          "oklch(55% 0.055 269.9)",
+          "oklch(70% 0.055 269.9)",
+          "oklch(85% 0.055 269.9)",
+          "oklch(95% 0.055 269.9)"
+        ]
+      },
+      "blue": {
+        "role": "primary",
+        "displayName": "Hanok Brand Blue",
+        "canonical": "oklch(39.4% 0.164 264.2)",
+        "tonalRamp": [
+          "oklch(15% 0.164 264.2)",
+          "oklch(25% 0.164 264.2)",
+          "oklch(35% 0.164 264.2)",
+          "oklch(45% 0.164 264.2)",
+          "oklch(55% 0.164 264.2)",
+          "oklch(70% 0.164 264.2)",
+          "oklch(85% 0.164 264.2)",
+          "oklch(95% 0.164 264.2)"
+        ]
+      },
+      "line-soft": {
+        "role": "neutral",
+        "displayName": "Muntin Mist",
+        "canonical": "oklch(79.0% 0.051 268.7)",
+        "tonalRamp": [
+          "oklch(15% 0.051 268.7)",
+          "oklch(25% 0.051 268.7)",
+          "oklch(35% 0.051 268.7)",
+          "oklch(45% 0.051 268.7)",
+          "oklch(55% 0.051 268.7)",
+          "oklch(70% 0.051 268.7)",
+          "oklch(85% 0.051 268.7)",
+          "oklch(95% 0.051 268.7)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Frost Paper",
+        "canonical": "oklch(96.0% 0.009 258.3)",
+        "tonalRamp": [
+          "oklch(15% 0.009 258.3)",
+          "oklch(25% 0.009 258.3)",
+          "oklch(35% 0.009 258.3)",
+          "oklch(45% 0.009 258.3)",
+          "oklch(55% 0.009 258.3)",
+          "oklch(70% 0.009 258.3)",
+          "oklch(85% 0.009 258.3)",
+          "oklch(95% 0.009 258.3)"
+        ]
+      },
+      "pane": {
+        "role": "neutral",
+        "displayName": "Pane White",
+        "canonical": "oklch(100% 0 0)",
+        "tonalRamp": [
+          "oklch(15% 0 0)",
+          "oklch(25% 0 0)",
+          "oklch(35% 0 0)",
+          "oklch(45% 0 0)",
+          "oklch(55% 0 0)",
+          "oklch(70% 0 0)",
+          "oklch(85% 0 0)",
+          "oklch(95% 0 0)"
+        ]
+      },
+      "muted-ink": {
+        "role": "neutral",
+        "displayName": "Muted Ink",
+        "canonical": "oklch(47.2% 0.068 267.1)",
+        "tonalRamp": [
+          "oklch(15% 0.068 267.1)",
+          "oklch(25% 0.068 267.1)",
+          "oklch(35% 0.068 267.1)",
+          "oklch(45% 0.068 267.1)",
+          "oklch(55% 0.068 267.1)",
+          "oklch(70% 0.068 267.1)",
+          "oklch(85% 0.068 267.1)",
+          "oklch(95% 0.068 267.1)"
+        ]
+      },
+      "lamp": {
+        "role": "secondary",
+        "displayName": "Lamp Amber",
+        "canonical": "oklch(82.0% 0.139 80.0)",
+        "tonalRamp": [
+          "oklch(15% 0.139 80.0)",
+          "oklch(25% 0.139 80.0)",
+          "oklch(35% 0.139 80.0)",
+          "oklch(45% 0.139 80.0)",
+          "oklch(55% 0.139 80.0)",
+          "oklch(70% 0.139 80.0)",
+          "oklch(85% 0.139 80.0)",
+          "oklch(95% 0.139 80.0)"
+        ]
+      },
+      "error": {
+        "role": "status",
+        "displayName": "Persimmon Error",
+        "canonical": "oklch(47.2% 0.163 29.6)",
+        "tonalRamp": [
+          "oklch(15% 0.163 29.6)",
+          "oklch(25% 0.163 29.6)",
+          "oklch(35% 0.163 29.6)",
+          "oklch(45% 0.163 29.6)",
+          "oklch(55% 0.163 29.6)",
+          "oklch(70% 0.163 29.6)",
+          "oklch(85% 0.163 29.6)",
+          "oklch(95% 0.163 29.6)"
+        ]
+      },
+      "ok": {
+        "role": "status",
+        "displayName": "Pine OK",
+        "canonical": "oklch(47.2% 0.091 160.6)",
+        "tonalRamp": [
+          "oklch(15% 0.091 160.6)",
+          "oklch(25% 0.091 160.6)",
+          "oklch(35% 0.091 160.6)",
+          "oklch(45% 0.091 160.6)",
+          "oklch(55% 0.091 160.6)",
+          "oklch(70% 0.091 160.6)",
+          "oklch(85% 0.091 160.6)",
+          "oklch(95% 0.091 160.6)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Display",
+        "purpose": "Trip title in the navy band only (h1)."
+      },
+      "headline": {
+        "displayName": "Headline",
+        "purpose": "Day title above the lattice (h2)."
+      },
+      "numeral": {
+        "displayName": "Numeral",
+        "purpose": "Day-tab dates; 300 weight when active."
+      },
+      "time": {
+        "displayName": "Time",
+        "purpose": "Stop time in each pane."
+      },
+      "title": {
+        "displayName": "Title",
+        "purpose": "Place name in each stop pane."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Base text."
+      },
+      "note": {
+        "displayName": "Note",
+        "purpose": "Stop notes and the note editor."
+      },
+      "period-label": {
+        "displayName": "Period Label",
+        "purpose": "Period names in the sticky lattice column."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Small tracked labels: meta, tab weekday, category, note label, count, footer."
+      }
+    },
+    "shadows": [],
+    "motion": [
+      {
+        "name": "ease-out",
+        "value": "cubic-bezier(.16, 1, .3, 1)",
+        "purpose": "Default easing for the lamp sweep, link arrow nudge, disclosure marker and pane settle."
+      },
+      {
+        "name": "lamp-sweep",
+        "value": "transform .5s var(--ease-out)",
+        "purpose": "Active day tab fill rises from the bottom (scaleY 0 to 1)."
+      },
+      {
+        "name": "pane-in",
+        "value": "opacity .85 to 1, .7s var(--ease-out), 45ms stagger capped at 10",
+        "purpose": "Stop panes settle once when a day is shown."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "animation: none; transition: none",
+        "purpose": "All motion snaps under prefers-reduced-motion."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "tablet",
+        "value": "960px"
+      },
+      {
+        "name": "phone",
+        "value": "700px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Filled brand-blue square button for the main action (sign in, import, save).",
+      "html": "<button class=\"ds-btn-primary\">登入雲端備註</button>",
+      "css": ".ds-btn-primary { min-height: 44px; padding: 0 18px; border: 1px solid var(--blue, #163b9c); border-radius: 0; background: var(--blue, #163b9c); color: #fff; font-family: \"Pretendard Seoul\", \"Noto Sans TC\", system-ui, sans-serif; font-size: 14px; font-weight: 600; letter-spacing: .08em; cursor: pointer; transition: background .2s, border-color .2s; } .ds-btn-primary:hover { background: var(--night, #0c1c47); border-color: var(--night, #0c1c47); } .ds-btn-primary:focus-visible { outline: 2px solid var(--blue, #163b9c); outline-offset: 3px; } .ds-btn-primary:disabled { opacity: .4; cursor: default; }"
+    },
+    {
+      "name": "Outline Button",
+      "kind": "button",
+      "refersTo": "button-outline",
+      "description": "Ruled square secondary button (sign out, reload, cancel).",
+      "html": "<button class=\"ds-btn-outline\">登出</button>",
+      "css": ".ds-btn-outline { min-height: 44px; padding: 0 18px; border: 1px solid var(--blue, #163b9c); border-radius: 0; background: transparent; color: var(--blue, #163b9c); font-family: \"Pretendard Seoul\", \"Noto Sans TC\", system-ui, sans-serif; font-size: 14px; letter-spacing: .08em; cursor: pointer; transition: background .2s; } .ds-btn-outline:hover { background: var(--pane, #fff); } .ds-btn-outline:focus-visible { outline: 2px solid var(--blue, #163b9c); outline-offset: 3px; }"
+    },
+    {
+      "name": "Text Field",
+      "kind": "input",
+      "refersTo": "input",
+      "description": "Square ruled field with a tracked label above.",
+      "html": "<label class=\"ds-field\">Email<input class=\"ds-input\" type=\"email\" placeholder=\"you@example.com\"></label>",
+      "css": ".ds-field { display: flex; flex-direction: column; gap: 6px; font-family: \"Pretendard Seoul\", \"Noto Sans TC\", system-ui, sans-serif; font-size: 12px; letter-spacing: .14em; color: var(--muted-ink, #4a5a82); max-width: 320px; } .ds-input { border: 1px solid var(--blue, #163b9c); border-radius: 0; background: var(--pane, #fff); color: var(--ink, #0c1c47); padding: 11px 12px; font: inherit; font-size: 16px; letter-spacing: normal; caret-color: var(--blue, #163b9c); } .ds-input:focus-visible { outline: 2px solid var(--blue, #163b9c); outline-offset: 3px; }"
+    },
+    {
+      "name": "Day Tabs",
+      "kind": "nav",
+      "refersTo": "day-tab",
+      "description": "Lattice row of day panes in the navy band; the active pane fills lamp amber from the bottom.",
+      "html": "<div class=\"ds-tabs\" role=\"tablist\"><button class=\"ds-tab is-active\" role=\"tab\" aria-selected=\"true\"><strong>26</strong><span>12 月 · 週六</span></button><button class=\"ds-tab\" role=\"tab\"><strong>27</strong><span>12 月 · 週日</span></button><button class=\"ds-tab\" role=\"tab\"><strong>28</strong><span>12 月 · 週一</span></button></div>",
+      "css": ".ds-tabs { display: grid; grid-auto-flow: column; grid-auto-columns: minmax(0, 1fr); background: var(--night, #0c1c47); border-top: 1px solid var(--night-line, #2b3d72); border-left: 1px solid var(--night-line, #2b3d72); font-family: \"Pretendard Seoul\", \"Noto Sans TC\", system-ui, sans-serif; } .ds-tab { position: relative; isolation: isolate; display: flex; flex-direction: column; align-items: flex-start; justify-content: flex-end; gap: 6px; padding: 20px 22px 18px; border: 0; border-right: 1px solid var(--night-line, #2b3d72); border-radius: 0; background: transparent; color: var(--night-soft, #aebbe0); text-align: left; cursor: pointer; transition: color .3s cubic-bezier(.16, 1, .3, 1); } .ds-tab::before { content: \"\"; position: absolute; inset: 0; z-index: -1; background: var(--lamp, #f3b94d); transform: scaleY(0); transform-origin: bottom; transition: transform .5s cubic-bezier(.16, 1, .3, 1); } .ds-tab:hover { color: var(--paper, #eef2f8); } .ds-tab.is-active, .ds-tab.is-active:hover { color: var(--night, #0c1c47); } .ds-tab.is-active::before { transform: scaleY(1); } .ds-tab strong { font-size: 56px; font-weight: 200; line-height: .9; letter-spacing: -.04em; font-variant-numeric: tabular-nums; } .ds-tab.is-active strong { font-weight: 300; } .ds-tab span { font-size: 12px; letter-spacing: .16em; } .ds-tab:focus-visible { outline: 2px solid var(--lamp, #f3b94d); outline-offset: 3px; }"
+    },
+    {
+      "name": "Stop Pane",
+      "kind": "card",
+      "refersTo": "stop-pane",
+      "description": "White pane in the lattice: category and region, thin time, place title, note, Naver Map footer.",
+      "html": "<article class=\"ds-pane\"><div class=\"ds-pane-top\"><span class=\"ds-cat\"><svg width=\"14\" height=\"14\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M10 2v2\"/><path d=\"M14 2v2\"/><path d=\"M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1\"/><path d=\"M6 2v2\"/></svg>咖啡・甜點</span><span class=\"ds-region\"><svg width=\"13\" height=\"13\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"1.75\" stroke-linecap=\"round\" stroke-linejoin=\"round\"><path d=\"M20 10c0 4.993-5.539 10.193-7.399 11.799a1 1 0 0 1-1.202 0C9.539 20.193 4 14.993 4 10a8 8 0 0 1 16 0\"/><circle cx=\"12\" cy=\"10\" r=\"3\"/></svg>明洞</span></div><p class=\"ds-time\">15:30</p><h4 class=\"ds-place\">明洞咖啡</h4><div class=\"ds-note\"><span class=\"ds-note-label\">備註</span><p>點一杯熱拿鐵，慢慢走。</p></div><div class=\"ds-pane-foot\"><span class=\"ds-provider\">Naver Map</span><a class=\"ds-map\" href=\"#\">開啟地圖</a></div></article>",
+      "css": ".ds-pane { display: flex; flex-direction: column; max-width: 420px; padding: 22px 24px 0; background: var(--pane, #fff); color: var(--ink, #0c1c47); border: 1px solid var(--line, #163b9c); font-family: \"Pretendard Seoul\", \"Noto Sans TC\", system-ui, sans-serif; } .ds-pane-top { display: flex; align-items: center; gap: 14px; font-size: 12px; } .ds-cat, .ds-region { display: inline-flex; align-items: center; gap: 5px; letter-spacing: .08em; color: var(--muted-ink, #4a5a82); } .ds-cat { color: var(--ink, #0c1c47); margin-right: auto; } .ds-time { margin: 18px 0 2px; font-size: 30px; font-weight: 250; letter-spacing: -.03em; line-height: 1.1; font-variant-numeric: tabular-nums; } .ds-place { margin: 8px 0; font-size: 18px; font-weight: 600; line-height: 1.5; letter-spacing: -.01em; } .ds-note { margin: 0 -24px; padding: 14px 24px 18px; border-top: 1px dashed rgb(22 59 156 / .35); } .ds-note-label { display: block; margin-bottom: 6px; font-size: 12px; letter-spacing: .14em; color: var(--muted-ink, #4a5a82); } .ds-note p { margin: 0; font-size: 15px; line-height: 1.85; } .ds-pane-foot { display: flex; align-items: center; gap: 0 16px; min-height: 52px; margin: 0 -24px; padding: 4px 24px; border-top: 1px solid rgb(22 59 156 / .18); font-size: 12px; } .ds-provider { letter-spacing: .14em; color: var(--ok, #1f6b4a); font-weight: 600; } .ds-map { display: flex; align-items: center; min-height: 44px; font-size: 14px; font-weight: 600; color: var(--blue, #163b9c); text-decoration: none; text-underline-offset: 4px; } .ds-map:hover { text-decoration: underline; } .ds-map:focus-visible { outline: 2px solid var(--blue, #163b9c); outline-offset: 3px; }"
+    },
+    {
+      "name": "Period Lattice Row",
+      "kind": "custom",
+      "refersTo": "period-heading",
+      "description": "Period label cell on paper beside two stop panes divided by soft-blue muntins, with the unlit 띠살 filler for an odd cell.",
+      "html": "<div class=\"ds-lattice\"><div class=\"ds-period\"><h3>下午</h3></div><div class=\"ds-cells\"><div class=\"ds-cell\">咖啡</div><div class=\"ds-cell\">逛街</div><div class=\"ds-cell\">晚餐</div><div class=\"ds-ttisal\"></div></div></div>",
+      "css": ".ds-lattice { display: grid; grid-template-columns: 140px minmax(0, 1fr); border: 1px solid var(--line, #163b9c); font-family: \"Pretendard Seoul\", \"Noto Sans TC\", system-ui, sans-serif; } .ds-period { padding: 22px 20px; background: var(--paper, #eef2f8); border-right: 1px solid var(--line, #163b9c); } .ds-period h3 { margin: 0; font-size: 15px; font-weight: 500; letter-spacing: .14em; color: var(--blue, #163b9c); } .ds-cells { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1px; background: var(--line-soft, #adbadc); } .ds-cell { min-height: 96px; padding: 22px 24px; background: var(--pane, #fff); color: var(--ink, #0c1c47); font-size: 15px; } .ds-ttisal { --rails: repeating-linear-gradient(180deg, rgb(22 59 156 / .2) 0 1px, transparent 1px 6px); background: var(--rails) 0 14% / 100% 13px no-repeat, var(--rails) 0 50% / 100% 13px no-repeat, var(--rails) 0 86% / 100% 13px no-repeat, repeating-linear-gradient(90deg, transparent 0 15px, rgb(22 59 156 / .07) 15px 16px), var(--paper, #eef2f8); }"
+    },
+    {
+      "name": "Cloud Notes Disclosure",
+      "kind": "custom",
+      "refersTo": "button-outline",
+      "description": "Quiet one-line disclosure under a 1px blue rule; the square marker fills and turns 45 degrees when open.",
+      "html": "<details class=\"ds-disclosure\"><summary>雲端備註</summary><p>登入後可選擇匯入裝置備註。</p></details>",
+      "css": ".ds-disclosure { border-top: 1px solid var(--line, #163b9c); font-family: \"Pretendard Seoul\", \"Noto Sans TC\", system-ui, sans-serif; } .ds-disclosure summary { display: flex; align-items: center; gap: 10px; width: fit-content; min-height: 52px; cursor: pointer; list-style: none; font-size: 13px; letter-spacing: .14em; color: var(--blue, #163b9c); } .ds-disclosure summary::-webkit-details-marker { display: none; } .ds-disclosure summary::before { content: \"\"; width: 9px; height: 9px; border: 1px solid var(--blue, #163b9c); transition: background .2s, transform .3s cubic-bezier(.16, 1, .3, 1); } .ds-disclosure[open] summary::before { background: var(--blue, #163b9c); transform: rotate(45deg); } .ds-disclosure summary:hover { text-decoration: underline; text-underline-offset: 5px; } .ds-disclosure summary:focus-visible { outline: 2px solid var(--blue, #163b9c); outline-offset: 3px; } .ds-disclosure p { margin: 0 0 16px; font-size: 14px; color: var(--muted-ink, #4a5a82); }"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Hanok Window at Blue Hour",
+    "overview": "The page is a 창살 (hanok window lattice) seen at dusk. A deep night-navy band holds the title, a hand-drawn line skyline of Seoul, and a row of day panes; the chosen day glows lamp amber, like one lit paper window. Below the band the ground turns to cool frost paper, and the day's stops sit in white panes held by a lattice of 1px rules. The surface reads as a calm, unhurried notebook rather than a trip-planner app.\n\nDensity comes from structure, not decoration: every division is a hairline rule, every corner is square, and hierarchy comes from scale contrast between very large, very light numerals and small, widely tracked labels. Titles are set in a brush-kai face (LXGW WenKai TC) so the Traditional Chinese reads as handwritten journal headings; everything else is a quiet sans. Motion is limited to the lamp sweeping into the active day and the panes settling once.\n\nThe build rejects the category default of rounded white cards on grey with pill tabs; this is confirmed in the direction contract and holds across the build.",
+    "keyCharacteristics": [
+      "Navy band over frost paper; two grounds, never a third.",
+      "One lamp: amber only marks what is lit (active day, its focus ring, text selection).",
+      "Square corners and 1px rules everywhere; frame rules in brand blue, inner muntins in soft blue.",
+      "Huge thin numerals against tiny tracked labels.",
+      "Line-illustration imagery drawn in the palette's own strokes, never photography."
+    ],
+    "rules": [
+      {
+        "name": "The One Lamp Rule",
+        "body": "Lamp amber marks only the lit state: the active day pane, focus within the day tabs, and text selection. If an element is not \"the one lit thing\", it is not amber.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Grounds Rule",
+        "body": "Night navy above, frost paper below. Panes are white; there is no grey and no third surface color.",
+        "section": "colors"
+      },
+      {
+        "name": "The Frame and Muntin Rule",
+        "body": "The lattice uses two rule weights by color, not by thickness: the outer frame and period dividers are brand blue (#163b9c); the muntins between stop panes are soft blue (#adbadc). Both are 1px.",
+        "section": "colors"
+      },
+      {
+        "name": "The Scale Contrast Rule",
+        "body": "Hierarchy comes from size and weight extremes: numerals and times go thin (200–300) and large; labels go small and tracked. Never fake hierarchy with bold mid-sized type.",
+        "section": "typography"
+      },
+      {
+        "name": "The Brush for Titles Rule",
+        "body": "LXGW WenKai TC is used for h1 and h2 only. Labels, numerals, buttons and body stay in the sans.",
+        "section": "typography"
+      },
+      {
+        "name": "The Paper Window Rule",
+        "body": "Surfaces never lift. A pane is distinguished by its fill and its 1px frame, never by a shadow.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "Do separate everything with 1px rules: brand blue (#163b9c) for frames, soft blue (#adbadc) for muntins between panes, night rule (#2b3d72) inside the band.",
+      "Do keep every corner square (0px), including inputs and buttons.",
+      "Do set h1 and h2 in LXGW WenKai TC and everything else in Pretendard Seoul with Noto Sans TC.",
+      "Do make large numerals thin (200–300) and labels small and tracked (0.14–0.2em).",
+      "Do fill an odd lattice cell with the unlit 띠살 pane rather than leaving a gap.",
+      "Do draw imagery as line illustration in the palette's own stroke colors.",
+      "Do honor reduced motion: all animation and transitions snap off."
+    ],
+    "donts": [
+      "Don't use lamp amber (#f3b94d) for anything except the active day tab, focus inside the day tabs, and text selection.",
+      "Don't round corners or use pill tabs and rounded white cards on grey.",
+      "Don't add drop shadows to lift panes or buttons.",
+      "Don't introduce a third ground color between navy and frost paper.",
+      "Don't reintroduce numbered stop indices; they were removed as unclear."
+    ]
+  }
+}

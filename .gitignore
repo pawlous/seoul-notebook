@@ -1,4 +1,36 @@
+# Dependencies and build output
 node_modules/
 dist/
+*.tsbuildinfo
+.vite/
+
+# Environment files (keep the example)
 .env*
 !.env.example
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+*.swp
+
+# Claude Code: keep shared launch config, ignore personal settings
+.claude/settings.local.json
+
+# Impeccable: keep design.json and surface briefs, ignore working files
+.impeccable/mocks/
+.impeccable/questions/
+.impeccable/review/
+.impeccable/tmp/
+.impeccable/build/
+.impeccable/live/
+.impeccable/config.local.json

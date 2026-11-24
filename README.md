@@ -18,6 +18,6 @@
 
 Node.js 24: `npm ci`, then `npm run dev`. Run `npm run build` for the static site. GitHub Actions deploys the `dist` directory on pushes to main.
 
-## Photo credit
+## Fonts and illustration
 
-[Dongdaemun Design Plaza & Park](https://commons.wikimedia.org/wiki/File:Dongdaemun_Design_Plaza_%26_Park_-_13461828345.jpg) by Nestor Lacle, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/). Displayed cropped.
+標題使用 Google Fonts 的 LXGW WenKai TC，內文使用 Pretendard（SIL OFL 1.1，僅用於拉丁字母、數字與韓文）與 Noto Sans TC。頁首的首爾地標線條插畫為本專案自行繪製的 SVG（`src/SeoulSkyline.tsx`）。
