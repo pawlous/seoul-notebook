@@ -1,0 +1,237 @@
+[
+  {
+    "id": "2026-12-26-airport-transfer",
+    "day": "2026-12-26",
+    "time": "04:00",
+    "period": "上午",
+    "name": "機場接送",
+    "region": "桃園",
+    "category": "Commute",
+    "hint": "前往桃園國際機場辦理登機。",
+    "notes": "",
+    "mapLinks": []
+  },
+  {
+    "id": "2026-12-26-br170",
+    "day": "2026-12-26",
+    "time": "07:05–10:30",
+    "period": "上午",
+    "name": "TPE → ICN · 長榮航空 BR170",
+    "region": "",
+    "category": "Flight",
+    "hint": "從桃園飛往仁川。起飛與抵達皆為當地時間。",
+    "notes": "",
+    "mapLinks": []
+  },
+  {
+    "id": "2026-12-26-into-seoul",
+    "day": "2026-12-26",
+    "period": "中午・交通",
+    "name": "機場 → 市區",
+    "region": "",
+    "category": "Commute",
+    "hint": "從仁川機場前往首爾市區。",
+    "notes": "",
+    "mapLinks": []
+  },
+  {
+    "id": "2026-12-26-luggage-drop",
+    "day": "2026-12-26",
+    "time": "12:00",
+    "period": "中午・交通",
+    "name": "行李暫放",
+    "region": "乙支路",
+    "category": "Hotel",
+    "hint": "先到 Hotel The Botanik Sewoon 放行李，再出發吃午餐。",
+    "notes": "",
+    "mapLinks": [
+      {
+        "label": "Hotel The Botanik Sewoon",
+        "url": "https://map.naver.com/p/entry/place/1010407203"
+      }
+    ]
+  },
+  {
+    "id": "2026-12-26-arirang-bossam",
+    "day": "2026-12-26",
+    "time": "13:00",
+    "period": "午餐",
+    "name": "午餐 · 박만배아리랑보쌈 을지로점",
+    "region": "乙支路",
+    "category": "Restaurant",
+    "hint": "到乙支路店吃韓式包肉。",
+    "notes": "",
+    "mapLinks": [
+      {
+        "label": "박만배아리랑보쌈 을지로점",
+        "url": "https://map.naver.com/p/entry/place/2029131259"
+      }
+    ]
+  },
+  {
+    "id": "2026-12-26-myeongdong",
+    "day": "2026-12-26",
+    "time": "15:00",
+    "period": "下午",
+    "name": "明洞",
+    "region": "明洞",
+    "category": "Shopping",
+    "hint": "逛 ILKW Seoul Showroom 和 ZEUS Glasses。",
+    "notes": "",
+    "mapLinks": [
+      {
+        "label": "ILKW Seoul Showroom",
+        "url": "https://map.naver.com/p/entry/place/1478015536"
+      },
+      {
+        "label": "ZEUS Glasses",
+        "url": "https://map.naver.com/p/entry/place/31506148"
+      }
+    ]
+  },
+  {
+    "id": "2026-12-26-sancheong",
+    "day": "2026-12-26",
+    "time": "18:00",
+    "period": "晚餐",
+    "name": "晚餐 · 山清炭火燒肉（乙支路）",
+    "region": "乙支路",
+    "category": "Restaurant",
+    "hint": "回乙支路吃山清炭火燒肉。",
+    "notes": "VISA 預訂",
+    "mapLinks": [
+      {
+        "label": "山清炭火燒肉（乙支路本店）",
+        "url": "https://map.naver.com/p/entry/place/1850187827"
+      }
+    ]
+  },
+  {
+    "id": "2026-12-27-breakfast",
+    "day": "2026-12-27",
+    "period": "早餐",
+    "name": "早餐",
+    "region": "漢南洞",
+    "category": "Cafe",
+    "hint": "兩個早餐選項：AVEK CHERI 和 sobb。",
+    "notes": "",
+    "mapLinks": [
+      {
+        "label": "AVEK CHERI",
+        "url": "https://map.naver.com/p/entry/place/1250468705"
+      },
+      {
+        "label": "sobb",
+        "url": "https://map.naver.com/p/entry/place/2088700077"
+      }
+    ]
+  },
+  {
+    "id": "2026-12-27-hannam",
+    "day": "2026-12-27",
+    "period": "上午",
+    "name": "漢南洞",
+    "region": "漢南洞",
+    "category": "Shopping",
+    "hint": "逛 LE17SEPTEMBRE 和 RECTO。",
+    "notes": "",
+    "mapLinks": [
+      {
+        "label": "LE17SEPTEMBRE",
+        "url": "https://map.naver.com/p/entry/place/2067565809"
+      },
+      {
+        "label": "RECTO",
+        "url": "https://map.naver.com/p/entry/place/1381177145"
+      }
+    ]
+  },
+  {
+    "id": "2026-12-27-unpage",
+    "day": "2026-12-27",
+    "period": "下午",
+    "name": "Unpage 언페이지",
+    "region": "漢南洞",
+    "category": "Cafe",
+    "hint": "到 Unpage 喝咖啡。",
+    "notes": "",
+    "mapLinks": [
+      {
+        "label": "Unpage 언페이지",
+        "url": "https://map.naver.com/p/entry/place/2053576180"
+      }
+    ]
+  },
+  {
+    "id": "2026-12-28-seongsu",
+    "day": "2026-12-28",
+    "period": "上午",
+    "name": "聖水洞",
+    "region": "聖水洞",
+    "category": "Shopping",
+    "hint": "挑幾間家居選物與服飾店，依停留時間調整。",
+    "notes": "",
+    "mapLinks": [
+      {
+        "label": "Pola at Home",
+        "url": "https://map.naver.com/p/entry/place/38552237"
+      },
+      {
+        "label": "29CM HOME",
+        "url": "https://map.naver.com/p/entry/place/2099852328"
+      },
+      {
+        "label": "MUSINSA EMPTY SEONGSU",
+        "url": "https://map.naver.com/p/entry/place/1745323187"
+      },
+      {
+        "label": "Point of View",
+        "url": "https://map.naver.com/p/entry/place/1160844669"
+      }
+    ]
+  },
+  {
+    "id": "2026-12-28-oegajip",
+    "day": "2026-12-28",
+    "period": "午餐",
+    "name": "午餐 · 聖水外婆家 외가집",
+    "region": "聖水洞",
+    "category": "Restaurant",
+    "hint": "到外婆家吃午餐。",
+    "notes": "",
+    "mapLinks": [
+      {
+        "label": "외가집",
+        "url": "https://map.naver.com/p/entry/place/18794472"
+      }
+    ]
+  },
+  {
+    "id": "2026-12-28-lowkey",
+    "day": "2026-12-28",
+    "period": "下午",
+    "name": "LowKey Seongsu 로우키 성수점",
+    "region": "聖水洞",
+    "category": "Cafe",
+    "hint": "在聖水洞逛街途中喝杯咖啡。",
+    "notes": "",
+    "mapLinks": [
+      {
+        "label": "LowKey Seongsu",
+        "url": "https://map.naver.com/p/entry/place/1393890643"
+      }
+    ]
+  },
+  {
+    "id": "2026-12-29-br159",
+    "day": "2026-12-29",
+    "time": "19:45–21:40",
+    "period": "晚間・交通",
+    "name": "ICN → TPE · 長榮航空 BR159",
+    "region": "",
+    "category": "Flight",
+    "hint": "從仁川飛回桃園。起飛與抵達皆為當地時間。",
+    "notes": "",
+    "mapLinks": []
+  }
+]
